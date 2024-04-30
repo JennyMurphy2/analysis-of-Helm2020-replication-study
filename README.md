@@ -1,1 +1,1 @@
-# analysis-of-Helm2020-replication-study
+This repository is part of a large replication project conducted by the Sports Science Replication Centre (https://ssreplicationcentre.com/). It includes the data and analyses for the replication study of "Anticipation of drop height affects neuromuscular control and muscle-tendon mechanics" by Helm et al (2020).
